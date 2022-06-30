@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43c3d05cf4ea448388cb8270e35939cc, type: 3}
+  m_Name: LPM_ARMap
+  m_EditorClassIdentifier: 
+  imageAnchors:
+  - name: Earth
+    position: {x: 40.550995, y: 6.766, z: 95.45801}
+    rotation: {x: 0, y: -0.593384, z: 0, w: 0.8049195}
+  - name: floor1
+    position: {x: 114.313995, y: 2.282, z: 166.539}
+    rotation: {x: -0.70040274, y: 0.09713907, z: 0.09713907, w: 0.70040274}
+  - name: floor5
+    position: {x: 114.58801, y: 17.524, z: 166.37903}
+    rotation: {x: -0.70040256, y: 0.09714063, z: 0.09714063, w: 0.70040256}
+  - name: plan
+    position: {x: 111.534, y: 18.342, z: 165.05096}
+    rotation: {x: -0.42657182, y: 0.56394726, z: 0.56394726, w: 0.42657182}
+  - name: floorH
+    position: {x: 108.90698, y: 12.38, z: 151.78796}
+    rotation: {x: 0.097139, y: 0.7004028, z: 0.7004028, w: -0.097139}
+  - name: lpm
+    position: {x: 121.859985, y: 2.55, z: 158.31}
+    rotation: {x: -0.70040274, y: 0.09713907, z: 0.09713907, w: 0.70040274}
+  - name: BigMap
+    position: {x: 96.369995, y: 13.12, z: 130.60999}
+    rotation: {x: 0.097139, y: 0.7004028, z: 0.7004028, w: -0.097139}
+  - name: Leo
+    position: {x: 90.41998, y: 12.87, z: 101.76999}
+    rotation: {x: 0.5639472, y: 0.4265719, z: 0.4265719, w: -0.5639472}
+  - name: Raf
+    position: {x: 92.48801, y: 12.87, z: 88.164}
+    rotation: {x: 0.10609594, y: 0.69910204, z: 0.69910204, w: -0.10609594}
+  - name: Cat
+    position: {x: 32.65799, y: 0.822, z: 111.534}
+    rotation: {x: 0.007434272, y: -0.7070677, z: -0.7070677, w: -0.0074341693}
+  - name: Kit
+    position: {x: 44.940002, y: 9.283, z: 92.576996}
+    rotation: {x: -0.42194644, y: 0.56741625, z: 0.56741625, w: 0.42194644}
+  - name: ingriaMap
+    position: {x: 35.057983, y: 8.825, z: 102.70999}
+    rotation: {x: -0.70076483, y: 0.09449189, z: 0.09449189, w: 0.70076483}

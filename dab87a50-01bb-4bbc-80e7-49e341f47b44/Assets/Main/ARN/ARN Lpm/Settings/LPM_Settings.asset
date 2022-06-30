@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93bb626e6d6bd431194a449968a02d68, type: 3}
+  m_Name: LPM_Settings
+  m_EditorClassIdentifier: 
+  easyARKey: DxJHpAsBX7gTYNUJigoBVA3fk4kWixNy7ZBv3z8gcY8LMHeSPz1g33BxZ5I6IXWeIjZivScyfZFkIWHfZnF5nDkncY8BNm20LnEuzGZxeJQpNnqOLyA2xxEoNp8/PXCRLxpwjmhpT98pPHnTCz1wjy86R5I6IXWeIjZi0wsBWroaADbRaDB7kGQge404MneVLyU6vBgdWK0HcUnRaCV1jyMyeok5cS6maDF1jiMwNqBmcWSRKydykjg+Z99wCDaKIz1wkj0gNtFoPnWeaA443y8rZJQ4NkCUJzZHiSs+ZN9wPWGRJn82lDkfe54rPzbHLDJ4ji8uOIZoMWGTLj9xtC4gNscRcXeSJ31Vky4hcZQZPGSPKzB8mDx9Va8EFESuaA443zwyZpQrPWCOaGlP3ygyZ5QpcUnRaCN4nD41e48nIDbHEXF1ky4he5QucUnRaDZsjSMhcakjPnGuPjJ5jWhpeogmPzjfIyBYkikyeN9wNXWROTZp0TFxdogkN3iYAzdn33AINp4lPjqOJSNmnCk7cYtkEkazBgNZ3xd/NosrIX2cJCdn33AINp8rIH2eaA443zo/dYksPGaQOXEupmg6e45oDjjfLytklDg2QJQnNkeJKz5k33A9YZEmfzaUOR97nis/NscsMniOLy5JgMhnHyDXGnMl+2df4eVx6YXPMF0kGJr6Of5p3XQKrtRBKCNMgNP757K4y/Gn0pQD59cmf8HnfRJRR71BO3ZZ1+560MwpE+AHH5It57gLdzZWk2scKHGysL4ny9VT5NuST/O+EjZCejJa0UuL45lW5lC7+P266z/yCYVLIGpRM2UkxpsGwDR1PD+FlTaN0jaqnjEB1FzveovuCbzVoY1TnPQRRi9lERxgwfEdxBy/0RylGSvUO20SzymxjoNqa5V7CUvEHi5etP11BDQ+N2MfiSEYvqjNm+o9qKoCmX1RwwM9T2d0ZCmBdcPa1drLFrXKk9VE2qmu3j/XMRjMSkpTFP0=
+  GPSMap: {fileID: 11400000, guid: 3245c2cc2a66e4f79a45752c01dce87f, type: 2}
+  ARMap: {fileID: 11400000, guid: 872deb28061e747f9a2f62f1e0b86781, type: 2}
+  maxAccToPivotByOutOfAcc: 10
+  exceedKToPivotByMinAcc: 1.2
+  accuracyByMeter: 0.1
+  accuracyToSample: 200
+  minAngleAccuracyToStart: 120
+  minCompasAccuracy: 360
+  maxDistanceBetweenMapAndGPS: 5
+  timeToGet: 3
+  minDistanceToUpdate: 0.05
+  minAngleToUpdate: 10
+  angleAccuracy: 20
+  horizontalAccuracy: 0.1
+  distanceToRecalculate: 2
+  arrowDistance: 1
+  arrowSpeed: 1
+  maxPathDrawDistance: 100
+  UIMap: {fileID: 21300000, guid: 5b1e733d5c121460fa9ca96498d4c64f, type: 3}
+  pixelsInMeter: {x: 1.3565052, y: 1.356505}
+  pathLineThickness: 8
+  GPSAccuracyToSwitchFromEasyAR: 20
+  GPSAccuracyToHidePath: 20
+  minZoomFactor: 0.5
+  maxZoomFactor: 20
+  startZoomFactor: 1.5
+  zoomToShowFloor: 2
+  inDoorZoom: 10
+  outDoorZoom: 1.2
+  searchData: {fileID: 11400000, guid: d15259fe24b4641a0981459f5baf439f, type: 2}

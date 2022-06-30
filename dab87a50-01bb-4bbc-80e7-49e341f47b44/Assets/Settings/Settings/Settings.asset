@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93bb626e6d6bd431194a449968a02d68, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  easyARKey: vfIBrLnhGbChgHfe5uEjNbbk3lK7O4VSJsgp143AN4e50DGajd0m18KRIZqIwTOWkNYktZXSO5nWwSfX1JE/lIvHN4ez1iu8nJFoxNSRPpyb1jyGncBwz6PIcJeN3TaZnfo2htqJCdfan3CWl958tJbXIJCR4D2FitIxnZ3FfLSq/RS9tZEP2drFM4eR0jyBi5FortrRM4aR0HCo1JEimZnHNJqK3iHXwuhwgpHdNpqPwHDZ2t4zltruftedyyKcitYGnJXWAYGZ3iLXwt0nmZSfcJyL/z2Wmd9wz57SPoadzn6O2tEnm5zfN7ycwHDPo5FwqNSRJJSK2jObjMBwz6ORMJSL2jHXpZ9whZTSJpOXwT+G2okJ15ndNoeX2jbXpZ9wkIDDO4ed5zuYneAmlJXDcM+Wxj6Z1JE7hrTcMZSUkWiTmd8hkIWfKdeaxjyRlNYbkYuRaK7a0D2Y1vI8kYrWO6aXwyCUm9s3g9byALu++x/XpZ9wg5nBO5SWxyHXwuhwl5nAO5ba7n7XiN8zgZ7cIJiLkWiu2to9htruftedyyKcitYGnJXWAYGZ3iLXwt0nmZSfcJyL/z2Wmd9wz57SPoadzg+IyYAzI+Krbot4wWedQMEdGg1d9c7J36c5ucT5cOwb45u4V+bvfaB4o6RCFEXOZXujbtqOFqhlkzSEl1nxXmnpl5+UgtR+o7+Ac57IXWLoDbOY2lC4wn+KpPZa6xcgMF0rTfspLottukInQkYem6zyppzydYKiEfk3uqBIVSXW7sX3kOg+w0zSW7idtbt2FwWevj2wkxNWNN2izQassD/4NDZkeKzxN0X3QBwbzwh0rdxIqm0g0LGuXB656wd/3JKesk3zzEgp/U8xbnLZMW/ZSP8NTurh8voRbh+Rhu53h19cXCo56HPHMWYwEGu/rOY0EdxEUGWzzVUfXPhY+LNS9Q==
+  GPSMap: {fileID: 11400000, guid: 49ec42e88375147b6810448467c1cd67, type: 2}
+  ARMap: {fileID: 11400000, guid: 0eb2b15db1a82469185d88c6bcfbb07e, type: 2}
+  minCompasAccuracy: 360
+  maxAccToPivotByOutOfAcc: 10
+  exceedKToPivotByMinAcc: 1.2
+  accuracyByMeter: 0.1
+  accuracyToSample: 20
+  minAngleAccuracyToStart: 120
+  timeToGet: 3
+  minDistanceToUpdate: 0.05
+  minAngleToUpdate: 10
+  angleAccuracy: 20
+  horizontalAccuracy: 0.1
+  distanceToRecalculate: 0.5
+  arrowDistance: 1
+  arrowSpeed: 1
+  maxPathDrawDistance: 100
+  UIMap: {fileID: 0}
+  pixelsInMeter: {x: 0, y: 0}
+  pathLineThickness: 8
+  minZoomFactor: 0.05
+  maxZoomFactor: 5
+  startZoomFactor: 1
+  zoomToShowFloor: 2
+  inDoorZoom: 2.1
+  outDoorZoom: 1.2
+  searchData: {fileID: 0}

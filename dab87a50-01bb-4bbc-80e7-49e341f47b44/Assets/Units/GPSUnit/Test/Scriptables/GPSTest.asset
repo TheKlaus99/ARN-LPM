@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3ba9652700f64825bf8923c0b813c6e, type: 3}
+  m_Name: GPSTest
+  m_EditorClassIdentifier: 
+  latitude: 60.00183
+  longitude: 30.243774
+  altitude: 0
+  localPos: {x: 72.86493, y: -0, z: 25.45415}
+  width: 283.68747
+  height: 283.68747
+  filter: {fileID: 2800000, guid: 449f72b395ec247a992efdeef86fce82, type: 3}

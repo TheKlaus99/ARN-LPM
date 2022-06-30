@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43c3d05cf4ea448388cb8270e35939cc, type: 3}
+  m_Name: ARMapFullTest
+  m_EditorClassIdentifier: 
+  imageAnchors:
+  - name: Floor1
+    position: {x: 86.18669, y: 4.9370008, z: 45.666565}
+    rotation: {x: 0.43803418, y: -0.55509114, z: -0.55509114, w: -0.43803418}
+  - name: Floor10
+    position: {x: 86.19025, y: 28.898008, z: 45.666977}
+    rotation: {x: 0.43803415, y: -0.55509114, z: -0.55509114, w: -0.43803415}
+  - name: Second
+    position: {x: 82.95, y: 28.338602, z: 28.790009}
+    rotation: {x: 0.55415493, y: 0.43921787, z: 0.43921787, w: -0.55415493}
+  - name: First
+    position: {x: 78.93, y: 28.338602, z: 28.130005}
+    rotation: {x: 0.11305299, y: 0.69801074, z: 0.6980108, w: -0.11305299}
+  - name: unitylogoreferenceimage
+    position: {x: 78.93, y: 28.338602, z: 28.130005}
+    rotation: {x: 0.11305299, y: 0.69801074, z: 0.6980108, w: -0.11305299}
+  - name: unitylogoreferenceimageT
+    position: {x: 75, y: 28, z: 31}
+    rotation: {x: -0.7061052, y: -0.03762337, z: -0.03762337, w: 0.7061052}
+  - name: unitylogoreferenceimage787
+    position: {x: 80.6, y: 28, z: 27.4}
+    rotation: {x: 0.4255475, y: -0.5647206, z: -0.5647206, w: -0.4255475}
+  - name: Earth
+    position: {x: 80.6, y: 28, z: 27.4}
+    rotation: {x: 0.4255475, y: -0.5647206, z: -0.5647206, w: -0.4255475}
