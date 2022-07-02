@@ -143,6 +143,9 @@ PlayerSettings:
     oculus:
       sharedDepthBuffer: 0
       dashSupport: 0
+      lowOverheadMode: 0
+      protectedContext: 0
+      v2Signing: 0
     enable360StereoCapture: 0
   protectGraphicsMemory: 0
   enableFrameTimingStats: 0
@@ -245,7 +248,7 @@ PlayerSettings:
   AndroidTargetArchitectures: 7
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: C:/Users/themd/Downloads/dab87a50-01bb-4bbc-80e7-49e341f47b44-20220622120922/dab87a50-01bb-4bbc-80e7-49e341f47b44/user.keystore
+  AndroidKeystoreName: C:/Users/themd/Documents/GitHub/ARN-LPM/ARN LPM/user.keystore
   AndroidKeyaliasName: key
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
